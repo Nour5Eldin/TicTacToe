@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="splash">Splash</string>
+    <string name="GameTitle">Tic Tac Toe</string>
+    <string name="startButton">Start</string>
+    <string name="startWithAiButton">Start With Ai </string>
+    <string name="PlayerSetupTitle">  Enter Your Name </string>
+    <string name="player1">Player1</string>
+    <string name="NameHint">Enter Your Name</string>
+    <string name="player2">Player2</string>
+    <string name="submit_names">Submit Names</string>
+    <string name="HomeButton">Home</string>
+    <string name="PlayAgainButton">Play Again</string>
+    <string name="choose_your_game">Choose Your Game</string>
+    <string name="solo_game">Solo Game</string>
+    <string name="game_multiplayer">Multiplayer Game</string>
+</resources>
